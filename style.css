@@ -1,0 +1,17 @@
+h1 {
+  
+font-family: 'Dancing Script', cursive;
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+ 
+ .card-body img{
+    min-width: 50%;
+    max-height: 200px;
+ }
+
+ .navbar-brand fs-2 {
+     color: yellow;
+ }
